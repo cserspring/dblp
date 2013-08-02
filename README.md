@@ -1,0 +1,3 @@
+ - Used inverted index to integrate keyword-subgraph, keyword-vertex and vertex-subgraph mappings together to mitigate expensive index access.
+ - Applied tree edit distance algorithm to compare characteristics of search results.
+ - Proposed a text similarity based method to implement redundancy penalty to optimize rankings of search results.
